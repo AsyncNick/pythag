@@ -1,0 +1,30 @@
+{
+  "name": "pythag",
+  "version": "1.0.0",
+  "description": "Calculate Pythagorean theorem",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivalnick/pythag.git"
+  },
+  "keywords": [
+    "pythag",
+    "Pythagorean",
+    "theorem",
+    "math",
+    "maths",
+    "ponyfill"
+  ],
+  "author": "Nicky Laczko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rivalnick/pythag/issues"
+  },
+  "homepage": "https://github.com/rivalnick/pythag#readme",
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
