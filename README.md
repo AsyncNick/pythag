@@ -3,7 +3,7 @@ pythag
 > Calculate Pythagorean theorem
 
 ## Install
-``$ npm install pythag``
+```$ npm install pythag```
 
 ## Usage
 ```javascript
@@ -14,7 +14,7 @@ pythag(40, 200);	// => 41600
 ```
 
 ## Related
-- <a href='https://www.npmjs.com/package/pythag-cli'>Pythag-cli</a>
+- <a href='https://github.com/rivalnick/pythag-cli'>Pythag-cli</a>
 
 ### License
 MIT <a href='https://twitter.com/nickylaczko'>Nicky Laczko</a>
